@@ -1,0 +1,3 @@
+C:/Users/vovan/CLionProjects/ItmoPractice/cmake-build-debug/CMakeFiles/ItmoPractice.dir
+C:/Users/vovan/CLionProjects/ItmoPractice/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/vovan/CLionProjects/ItmoPractice/cmake-build-debug/CMakeFiles/rebuild_cache.dir

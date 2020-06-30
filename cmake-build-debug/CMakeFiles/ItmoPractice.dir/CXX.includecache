@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/vovan/CLionProjects/ItmoPractice/main.cpp
+iostream
+-
+vector
+-
+queue
+-
+string
+-
+algorithm
+-
+iomanip
+-
+set
+-
+climits
+-
+
